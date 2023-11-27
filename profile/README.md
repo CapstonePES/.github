@@ -1,1 +1,1 @@
-# This is the organization for our capstone. 
+# This is the organization for our capstone project.
